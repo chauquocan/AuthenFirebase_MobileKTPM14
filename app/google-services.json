@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1034544833939",
+    "project_id": "dhktpm14mobile",
+    "storage_bucket": "dhktpm14mobile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034544833939:android:0bfdb3208c36300c83f466",
+        "android_client_info": {
+          "package_name": "com.example.authenfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1034544833939-r8o2035h6kds845a2u6oerpgl6hkb8ta.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPUIhLyUuvOEdpu886w2j7wbvexQUI1TM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1034544833939-r8o2035h6kds845a2u6oerpgl6hkb8ta.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
